@@ -3,3 +3,4 @@ beautifulsoup4
 fake_useragent
 tqdm
 dnspython
+tabulate  #for summary tables
